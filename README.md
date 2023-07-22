@@ -1,11 +1,11 @@
-The code provided is a console application written in C++ using the Qt framework. 
+#The code provided is a console application written in C++ using the Qt framework. 
 MD HARRINGTON 22/02/2023
 Please note this is written for Debian12  Distributions of linux 
 
 
 Its purpose is to generate a tree-like representation of the folder structure starting from a specified folder name and display the folder structure both in the console and as an image using Qt's graphical capabilities.
 
-Here's a step-by-step explanation of how the code works:
+#Here's a step-by-step explanation of how the code works:
 
     TreeCreator class: This is a static class that contains various static functions 
     for generating and displaying the folder tree structure.
@@ -49,7 +49,7 @@ Note: The provided code assumes that the necessary Qt libraries are installed an
  
 Make sure you have the required dependencies and font file installed before running the application.
 
-Instructions 
+#Instructions 
 
 1: To compile  you must have  QT5 / QT 6 installed and relative paths set up 
 2: Also required is CMAKE
@@ -75,7 +75,7 @@ When this completes  you will be presented with and Imageviewer window that show
 
 Both image and  textfiles relating to this tree will be placed in the folder that  you searched on
 
-How the make file  works 
+#How the make file  works 
 
 
 The provided CMakeLists.txt file is used to configure the build process for a C++ project called "TreeCreator" that depends on the Qt library.
