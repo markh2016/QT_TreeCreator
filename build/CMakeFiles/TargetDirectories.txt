@@ -1,0 +1,3 @@
+/home/mark/QTProjects/Qt_TreeCreator/build/CMakeFiles/TreeCreator.dir
+/home/mark/QTProjects/Qt_TreeCreator/build/CMakeFiles/edit_cache.dir
+/home/mark/QTProjects/Qt_TreeCreator/build/CMakeFiles/rebuild_cache.dir
